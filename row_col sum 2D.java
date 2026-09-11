@@ -33,3 +33,15 @@ class Demo{
                 // System.out.print(arr[2][2]);
     }
 }
+
+// String name = "Vivek";
+  //     String name1 = "Vivek";
+    //   String name2 = new String("Vivek");
+      // 
+       //System.out.println(name2);
+       //System.out.println(name);
+       
+       
+     // System.out.print(name == name2);
+	  
+	  
